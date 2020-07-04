@@ -19,3 +19,16 @@
 ```
 抜粋 引用元: http://enrique5581.net/nakano-nobuko-life-brain/
 ```
+
+
+colspan `>` or `empty cell`:
+| a   | b   |
+| --- | --- |
+| >   | 1   |
+| 2   |
+
+rowspan `^`:
+| a   | b   |
+| --- | --- |
+| 1   | 2   |
+| ^   | 4   |
